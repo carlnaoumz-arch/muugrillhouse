@@ -9,6 +9,7 @@ import svgr from "vite-plugin-svgr";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 import { fileURLToPath } from "node:url";
+import { nitro } from "nitro/vite";
 
 // The vendored @higgsfield/quanta components import their glyphs from the private
 // Nexus-only `@higgsfield-ai/icons`. Generated sites build on the PUBLIC npm
@@ -74,6 +75,12 @@ export default defineConfig(({ mode }) => {
       tanstackStart({
         server: { entry: "server" },
       }),
+      // The repository root is the Vercel project root. Emit both static
+      // assets and the SSR function there using Vercel's Build Output API.
+      ...(mode === "vercel" ? [nitro({
+        preset: "vercel",
+        output: { dir: fileURLToPath(new URL("../.vercel/output", import.meta.url)) },
+      })] : []),
       higgsfieldDesignInspectorVitePlugin(designInspectorEnabled),
       react({
         babel: {

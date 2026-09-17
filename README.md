@@ -30,6 +30,21 @@ AI imagery is based on restaurant references but may differ in plating and detai
 
 ## Publication status
 
-This is an owner preview with noindex enabled. No public hosting deployment is configured. The enquiry form prepares a WhatsApp message; it does not send it or confirm a booking. Currency, exact map pin, delivery terms, unusual source prices and final launch details still need restaurant confirmation. See [UPDATE-GUIDE.md](UPDATE-GUIDE.md).
+This is an owner preview with noindex enabled. Vercel deployment is configured through the root `vercel.json`. The enquiry form prepares a WhatsApp message; it does not send it or confirm a booking. Currency, exact map pin, delivery terms, unusual source prices and final launch details still need restaurant confirmation. See [UPDATE-GUIDE.md](UPDATE-GUIDE.md).
 
 Test results and remaining verification limits are documented in [VERIFICATION.md](VERIFICATION.md).
+
+## Vercel deployment
+
+Import the repository with **Root Directory left at the repository root**. The committed `vercel.json` installs dependencies inside `app`, runs `bun run build:vercel`, and emits Vercel Build Output API files in `.vercel/output`. Nitro packages TanStack Start SSR into a Vercel Function alongside the static assets; a plain Vite static deployment is insufficient.
+
+To verify the deployment artifact locally:
+
+```sh
+cd app
+bun run build:vercel
+cd ..
+node scripts/check-vercel.mjs
+```
+
+The standard local build and `preview.mjs` continue to work unchanged. Vercel-specific output is excluded from Git. This setup follows the [TanStack hosting guide](https://tanstack.com/start/latest/docs/framework/react/guide/hosting) and [Vercel Build Output API](https://vercel.com/docs/build-output-api).

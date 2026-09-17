@@ -35,3 +35,7 @@ The production website was run locally and checked in Chromium on desktop and mo
 ## Limits
 
 Reduced-motion, save-data, slow-network and failed-video fallbacks were reviewed in source; no network-throttling simulation, screen-reader audit, Lighthouse score, Safari/Firefox pass or public-host performance guarantee is claimed. Restaurant confirmation is still needed for the business details listed in UPDATE-GUIDE.md.
+
+## Vercel deployment repair
+
+The initial Vercel import ran `vite build` from the repository root, where dependencies were absent. Added root install/build configuration and a conditional Nitro Vercel preset, preserving the local build. Verified the resulting server function directly for all seven routes, a 404, linked static assets and both hero videos. GitHub Actions now validates the Vercel artifact as well as the standard build.
