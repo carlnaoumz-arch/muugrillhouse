@@ -1,0 +1,2251 @@
+[
+  {
+    "category": "STARTERS",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card44",
+        "name": "EDAMAME",
+        "price": "7.50",
+        "description": "",
+        "image": "edamamiiiiiii.jpg"
+      },
+      {
+        "id": "card357",
+        "name": "SPICY EDAMAME",
+        "price": "7.70",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card45",
+        "name": "FRIES",
+        "price": "5.00",
+        "description": "A basket of original French fries, crisped to golden perfection.",
+        "image": "friesssssss.jpg"
+      },
+      {
+        "id": "card46",
+        "name": "TRUFFLE FRIES",
+        "price": "9.50",
+        "description": "Mouthwatering fries smothered in creamy truffle sauce and finished with a generous sprinkle of Parmesan.",
+        "image": "truffle-friestttt.jpg"
+      },
+      {
+        "id": "card39",
+        "name": "CRISPY CHICKEN TENDERS",
+        "price": "11.00",
+        "description": "Our Signature crispy golden chicken tenders served with our famous honey mustard sauce.",
+        "image": "crispy-chicken-tendersssssss.jpg"
+      },
+      {
+        "id": "card41",
+        "name": "SUMMER ROLLS",
+        "price": "14.00",
+        "description": "A refreshing duo of rice paper roll, one with smoked salmon, one with shrimp, filled with crisp vegetables and herbs. Served with sweet chili and soy dipping sauces.",
+        "image": "summer-rollrrrrr.jpg"
+      },
+      {
+        "id": "card40",
+        "name": "MOZZARELLA STICKS",
+        "price": "11.00",
+        "description": "Crispy on the outside, melty on the inside. Served with honey mustard sauce.",
+        "image": "mozarella-stickssssss.jpg"
+      },
+      {
+        "id": "card47",
+        "name": "CHEESY NACHOS",
+        "price": "14.00",
+        "description": "Crisp Corn tortilla chips loaded with melted cheese and served with our special guacamole and cool sour cream on the side.",
+        "image": "010101.jpg"
+      },
+      {
+        "id": "card48",
+        "name": "ASIAN CRISPY CALAMARI",
+        "price": "14.00",
+        "description": "Crispy, golden calamari with a side of sweet chili sauce for the perfect dip of heat and sweet.",
+        "image": "crispy-calamariiiiii.jpg"
+      },
+      {
+        "id": "card49",
+        "name": "SHRIMP DYNAMITE",
+        "price": "15.50",
+        "description": "Perfectly breaded shrimps, fried to perfection and coated in our creamy, sweet and hot Dynamite sauce.",
+        "image": "dynamite-shrimpppppp.jpg"
+      },
+      {
+        "id": "card42",
+        "name": "BEEF TARTARE",
+        "price": "18.00",
+        "description": "Finely chopped beef fillet mixed with fresh basil herbs, eggs, and Dijon mustard sauce. Served with toast on the side.",
+        "image": "beef-tartareeeeee.jpg"
+      }
+    ]
+  },
+  {
+    "category": "SALAD",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card24",
+        "name": "GARDEN FRESH SALAD",
+        "price": "12.50",
+        "description": "Crisp romaine and mixed greens with red cabbage, carrot, cucumber, edamame, and avocado, finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "image": "garden-saladdddd.jpg"
+      },
+      {
+        "id": "card27",
+        "name": "CHICKEN SALAD",
+        "price": "17.00",
+        "description": "Tender grilled chicken on a vibrant bed of crisp romaine and mixed greens with red cabbage, carrot, cucumber, edamame, and avocado, finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "image": "chicken-saladddddd_1.jpg"
+      },
+      {
+        "id": "card25",
+        "name": "SHRIMP SALAD",
+        "price": "18.00",
+        "description": ", finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "image": "shrimps-saladddddd.jpg"
+      },
+      {
+        "id": "card29",
+        "name": "CALAMARI SALAD",
+        "price": "17.00",
+        "description": "Juicy Calamari on a vibrant bed of crisp romaine and mixed greens with red cabbage, carrot, cucumber, edamame, and avocado, finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "image": "calamar-saladddddd.jpg"
+      },
+      {
+        "id": "card26",
+        "name": "QUINOA SALMON SALAD",
+        "price": "19.00",
+        "description": "A refreshing quinoa medley with carrot, cucumber, basil, and mint, crowned with smoked salmon, wild rocca and guacamole, finished with a zesty lemon-mustard sauce.",
+        "image": "quinoa-salmon-saladdddddd.jpg"
+      },
+      {
+        "id": "card43",
+        "name": "SALMON CARPACCIO",
+        "price": "25.00",
+        "description": "Thinly sliced fresh smoked salmon drizzled with olive oil, lemon, and herbs for a light, refreshing start.",
+        "image": "salmon-carpacciooooooo.jpg"
+      },
+      {
+        "id": "card28",
+        "name": "MUU BEEF SALAD",
+        "price": "18.00",
+        "description": "Slices of juicy grilled beef on a vibrant bed of crisp romaine and mixed greens with red cabbage, carrot, cucumber, edamame, and avocado, finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "image": "muu-beef-saladddddd.jpg"
+      }
+    ]
+  },
+  {
+    "category": "MUU COMBO",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card15",
+        "name": "MUU ASSORTED COMBO",
+        "price": "29.00",
+        "description": "Can’t choose? Try it all! A combo of chicken tenders, mozzarella sticks, Asian calamari, and shrimp dynamite, served with fries and our special honey mustard for dipping.",
+        "image": "whatsapp-image-2026-01-24-at-32154-pm.jpg"
+      },
+      {
+        "id": "card51",
+        "name": "MUU ASSORTED PLATTER (Served for 4 Pers.)",
+        "price": "65.00",
+        "description": "A flavor-packed mix of beef, chicken, salmon, shrimp, and calamari, smothered in our secret Muu sauce. Served with side salad and our golden French fries.",
+        "image": "muu-assorted-platterrrrrr.jpg"
+      },
+      {
+        "id": "card17",
+        "name": "MUU SMOKED ASSORTED PLATTER (Served for 4 Pers.)",
+        "price": "99.00",
+        "description": "A smoky feast of pulled pork, beef, sausages, chicken and salmon with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "muu-smoked-assorted-platterrrrrrrr.jpg"
+      },
+      {
+        "id": "card414",
+        "name": "MUU BURGER COMBO",
+        "price": "23.00",
+        "description": "",
+        "image": "combo.jpg"
+      }
+    ]
+  },
+  {
+    "category": "BURGER",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card2",
+        "name": "ANGUS BEEF BURGER",
+        "price": "16.50",
+        "description": "Juicy angus beef patty with pickles, onion, and tomato, topped with our signature sauce, served on a buttery bun with golden fries and ketchup on the side.",
+        "image": "angus-burgerrrrr.jpg"
+      },
+      {
+        "id": "card3",
+        "name": "CHICKEN BURGER",
+        "price": "16.50",
+        "description": "Tender and Juicy Chicken patty with pickles, lettuce, and tomato, topped with our signature sauce and bbq, served on a buttery bun with golden fries and ketchup on the side.",
+        "image": "chicken-burgerrrrrrr.jpg"
+      },
+      {
+        "id": "card4",
+        "name": "PULLED BEEF BURGER",
+        "price": "18.00",
+        "description": "Smoky pulled beef with onions, smothered in BBQ sauce on a soft bun. Served with golden fries and a side of tangy coleslaw and ketchup.",
+        "image": "pulle-beef-burgersssssss.jpg"
+      },
+      {
+        "id": "card5",
+        "name": "PULLED PORK BURGER",
+        "price": "18.00",
+        "description": "Smoky pulled pork with onions, smothered in BBQ sauce on a soft bun. Served with golden fries and a side of tangy coleslaw and ketchup.",
+        "image": "pulle-beef-burgersssssss_1.jpg"
+      },
+      {
+        "id": "card394",
+        "name": "ADD BEEF PATTY",
+        "price": "4.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card325",
+        "name": "ADD CHEESE",
+        "price": "2.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card327",
+        "name": "ADD BACON",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card328",
+        "name": "ADD EGG",
+        "price": "1.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "HIGH IN PROTEIN",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card424",
+        "name": "CHICKEN PROTEIN SALAD",
+        "price": "19.00",
+        "description": "A nutrient-packed salad loaded with lean protein, wholesome carbs, healthy fats, and fresh vegetables. 90g Lettuce Mix • 120g Chicken Breast • 100g Sweet Potato • 80g Avocado • 40g Quinoa • 40g Edamame • 15g Walnut • 15g Radish • 10g Carrot • 10g Cucumber • 80g Asian Sauce.",
+        "image": "salad.jpg"
+      },
+      {
+        "id": "card425",
+        "name": "BEEF PROTEIN SALAD",
+        "price": "22.00",
+        "description": "",
+        "image": "salad_2.jpg"
+      },
+      {
+        "id": "card426",
+        "name": "CALAMARI PROTEIN SALAD",
+        "price": "19.00",
+        "description": "Perfectly cooked calamari with fresh greens and wholesome ingredients, delivering a light yet satisfying dining experience. 90g Lettuce Mix • 100g Calamari • 100g Sweet Potato • 80g Avocado • 40g Quinoa • 40g Edamame • 15g Walnut • 15g Radish • 10g Carrot • 10g Cucumber • 80g Asian Sauce.",
+        "image": "salad_3.jpg"
+      },
+      {
+        "id": "card427",
+        "name": "SHRIMP PROTEIN SALAD",
+        "price": "19.00",
+        "description": "Juicy shrimp combined with crisp vegetables and nourishing ingredients for a fresh and satisfying protein boost. 90g Lettuce Mix • 100g Shrimp • 100g Sweet Potato • 80g Avocado • 40g Quinoa • 40g Edamame • 15g Walnut • 15g Radish • 10g Carrot • 10g Cucumber • 80g Asian Sauce. Track your calories and macros with confidence.",
+        "image": "salad_4.jpg"
+      },
+      {
+        "id": "card428",
+        "name": "SALMON PROTEIN SALAD",
+        "price": "22.00",
+        "description": "Delicate salmon paired with vibrant greens and premium ingredients for a flavorful and nutrient-rich salad. 90g Lettuce Mix • 100g Smoked Salmon • 100g Sweet Potato • 80g Avocado • 40g Quinoa • 40g Edamame • 15g Walnut • 15g Radish • 10g Carrot • 10g Cucumber • 80g Asian Sauce. Track your calories and macros with confidence.",
+        "image": "salad_5.jpg"
+      },
+      {
+        "id": "card429",
+        "name": "HIGH CHICKEN PROTEIN PLATTER",
+        "price": "21.00",
+        "description": "Packed with lean protein and wholesome sides, this platter is crafted to support your performance and keep you fueled throughout the day. 300g Chicken Breast • 200g Mashed Sweet Potato • 50g Carrots • 50g Zucchini • 50g Broccoli. Track your calories and macros with confidence.",
+        "image": "platter.jpg"
+      },
+      {
+        "id": "card430",
+        "name": "HIGH SALMON PROTEIN PLATTER",
+        "price": "35.00",
+        "description": "Rich in quality protein and healthy fats, this balanced platter delivers both flavor and nourishment in every bite. 200g Fresh Salmon • 200g Mashed Sweet Potato • 50g Carrots • 50g Zucchini • 50g Broccoli. Track your calories and macros with confidence.",
+        "image": "salmon.png"
+      },
+      {
+        "id": "card431",
+        "name": "HIGH BEEF PROTEIN PLATTER",
+        "price": "27.00",
+        "description": "A hearty combination of premium beef filet and nutrient-rich vegetables, designed for a satisfying and protein-packed meal. 200g Beef Filet • 200g Mashed Sweet Potato • 50g Carrots • 50g Zucchini • 50g Broccoli. Track your calories and macros with confidence.",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "SANDWICHES",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card418",
+        "name": "CHICKEN BAGUETTE WITH ENTRECOTE SAUCE",
+        "price": "15.50",
+        "description": "Tender chicken layered in a toasted baguette with our signature Entrecôte sauce, crispy fries, and Parmesan cheese, served with your choice of side salad or extra fries.",
+        "image": "chicken.jpg"
+      },
+      {
+        "id": "card419",
+        "name": "BEEF BAGUETTE WITH ENTRECOTE SAUCE",
+        "price": "15.50",
+        "description": "Juicy beef filet served in a toasted baguette with our signature Entrecôte sauce, crispy fries, and Parmesan cheese, served with your choice of side salad or extra fries.",
+        "image": "all.jpg"
+      },
+      {
+        "id": "card421",
+        "name": "SALMON BAGUETTE WITH ENTRECOTE SAUCE",
+        "price": "19.00",
+        "description": "Flaky salmon tucked into a toasted baguette with our signature Entrecôte sauce, crispy fries, and Parmesan cheese, served with your choice of side salad or extra fries.",
+        "image": "all_1.jpg"
+      },
+      {
+        "id": "card422",
+        "name": "SHRIMP BAGUETTE WITH ENTRECOTE SAUCE",
+        "price": "15.50",
+        "description": "Flavorful shrimp nestled in a toasted baguette with our signature Entrecôte sauce, crispy fries, and Parmesan cheese, served with your choice of side salad or extra fries.",
+        "image": "all_2.jpg"
+      },
+      {
+        "id": "card423",
+        "name": "CALAMRI BAGUETTE WITH ENTRECOTE SAUCE",
+        "price": "15.50",
+        "description": "Golden calamari served in a toasted baguette with our signature Entrecôte sauce, crispy fries, and Parmesan cheese, served with your choice of side salad or extra fries.",
+        "image": "all_3.jpg"
+      }
+    ]
+  },
+  {
+    "category": "MUU MEALS",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card19",
+        "name": "BEEF PAN",
+        "price": "16.50",
+        "description": "Beef filet smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "image": "beef-pannnnnn.jpg"
+      },
+      {
+        "id": "card20",
+        "name": "SALMON PAN",
+        "price": "19.50",
+        "description": "Fresh Salmon smothered in our secret Muu sauce. Served with a side salad, white baguette.Served with your choice of French fries or baked potato.",
+        "image": "slamon-pansssss.jpg"
+      },
+      {
+        "id": "card21",
+        "name": "CHICKEN PAN",
+        "price": "16.50",
+        "description": "Tender grilled chicken smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "image": "chicken-pannnnnnn.jpg"
+      },
+      {
+        "id": "card22",
+        "name": "SHRIMP PAN",
+        "price": "16.50",
+        "description": "Shrimp smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "image": "shrimp-pannnnnnnnnn.jpg"
+      },
+      {
+        "id": "card23",
+        "name": "CALAMARI PAN",
+        "price": "16.50",
+        "description": "Calamari smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "image": "calamari-pannnnnnnn.jpg"
+      },
+      {
+        "id": "card359",
+        "name": "ADD BEEF PAN",
+        "price": "12.10",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card360",
+        "name": "ADD CHICKEN PAN",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card361",
+        "name": "ADD SHRIMP PAN",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card362",
+        "name": "ADD CALAMARI PAN",
+        "price": "12.10",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card363",
+        "name": "ADD SALMON PAN",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card380",
+        "name": "MIX PAN",
+        "price": "18.15",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "SMOKED",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card30",
+        "name": "SMOKED GRILLED SALMON",
+        "price": "35.00",
+        "description": "Juicy smoked grilled salmon with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "sllllllll.jpg"
+      },
+      {
+        "id": "card31",
+        "name": "SMOKED RIBS",
+        "price": "30.00",
+        "description": "Juicy smoked ribs with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "smoked-ribsssssss.jpg"
+      },
+      {
+        "id": "card32",
+        "name": "SMOKED PULLED PORK",
+        "price": "23.00",
+        "description": "Juicy smoked pulled pork with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "pulled-pork-platterrrrrrr.jpg"
+      },
+      {
+        "id": "card33",
+        "name": "ANGUS PULLED BEEF",
+        "price": "25.00",
+        "description": "Juicy smoked pulled beef with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "pulled-beef-platterrrrrrr.jpg"
+      },
+      {
+        "id": "card34",
+        "name": "SAUSAGE",
+        "price": "25.00",
+        "description": "Juicy sausages with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "smoked-saussagesssss.jpg"
+      },
+      {
+        "id": "card35",
+        "name": "CHICKEN BREAST SMOKED PLATTER",
+        "price": "25.00",
+        "description": "Juicy smoked chicken breast with a crusty baguette and a crisp salad on the side. Served with your choice of fries, baked potato, or mashed potato.",
+        "image": "smoked-chickennnnnnnn.jpg"
+      }
+    ]
+  },
+  {
+    "category": "MAIN COURSE",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card11",
+        "name": "BEEF AUSTRALIAN",
+        "price": "55.00",
+        "description": "Juicy Australian Beef served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: mushroom, pepper, or entrecôte.",
+        "image": "beef-australina-filletttttt.jpg"
+      },
+      {
+        "id": "card12",
+        "name": "ENTRECÔTE AUSTRALIAN 300g",
+        "price": "49.00",
+        "description": "Rich and flavorful Australian Entrecôte served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: mushroom, pepper, or entrecôte.",
+        "image": "australina-entrecoteeeeeee.jpg"
+      },
+      {
+        "id": "card14",
+        "name": "CHICKEN ESCALOPE",
+        "price": "19.00",
+        "description": "Our golden chicken escalope breaded to perfection. Served with golden fries and a side of tangy coleslaw and ketchup.",
+        "image": "chicken-escalopeeeeee.jpg"
+      },
+      {
+        "id": "card16",
+        "name": "COEUR DE FILET",
+        "price": "25.00",
+        "description": "Tender beef served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: mushroom, pepper, or entrecôte.",
+        "image": "coeur-de-filletttttt.jpg"
+      },
+      {
+        "id": "card18",
+        "name": "GRILLED SALMON PLATTER",
+        "price": "33.00",
+        "description": "Perfectly grilled salmon served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: meunière, pepper, or entrecôte.",
+        "image": "grilled-salmonnnnnnnnnn.jpg"
+      },
+      {
+        "id": "card387",
+        "name": "GRILLED CHICKEN PLATTER",
+        "price": "19.00",
+        "description": "Juicy grilled chicken served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: mushroom, pepper, or entrecôte.",
+        "image": "chickennnnnnnnnnn.jpg"
+      },
+      {
+        "id": "card405",
+        "name": "MONGOLIAN CHICKEN",
+        "price": "18.00",
+        "description": "Tender chicken caramelized in a rich savory glaze with sautéed onions and sesame seeds, served with steamed rice.",
+        "image": "image-2026-05-20-at-40810-pm_1.jpg"
+      },
+      {
+        "id": "card406",
+        "name": "MONGOLIAN BEEF",
+        "price": "19.50",
+        "description": "Juicy beef filet caramelized in a rich savory glaze with sautéed onions and sesame seeds, served with steamed rice.",
+        "image": "image-2026-05-20-at-40810-pm.jpg"
+      },
+      {
+        "id": "card407",
+        "name": "MUU SPECIAL CHEESY CHICKEN ESCALOPE",
+        "price": "23.50",
+        "description": "Our golden chicken escalope breaded to perfection, topped with cheesy mushroom sauce. Served with golden fries and a side of tangy coleslaw and ketchup.",
+        "image": "1111111.jpg"
+      },
+      {
+        "id": "card408",
+        "name": "MUU SPECIAL CHEESY BEEF ESCALOPE",
+        "price": "24.50",
+        "description": "Our golden beef escalope breaded to perfection, topped with cheesy mushroom sauce. Served with golden fries and a side of tangy coleslaw and ketchup.",
+        "image": "1111111_1.jpg"
+      },
+      {
+        "id": "card417",
+        "name": "T-BONE",
+        "price": "49.00",
+        "description": "A generous cut of premium T-bone steak, expertly grilled and served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a selection of our signature sauces: mushroom, pepper, or Entrecôte.",
+        "image": "australina-entrecoteeeeeee.jpg"
+      },
+      {
+        "id": "card437",
+        "name": "TOMAHAWK 800 GR",
+        "price": "100.00",
+        "description": "Served with fries, sauce pepper, sauce mushroom, sauce entrecote, and sauce mustard dijon",
+        "image": ""
+      },
+      {
+        "id": "card438",
+        "name": "TOMAHAWK 1200 GR",
+        "price": "130.00",
+        "description": "Served with fries, sauce pepper, sauce mushroom, sauce entrecote, and sauce mustard dijon",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "KIDS MEAL",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card8",
+        "name": "MINI BURGER BEEF",
+        "price": "11.00",
+        "description": "Bite-sized beefy goodness! Two juicy mini beef burgers served with our golden fries and a refreshing juice.",
+        "image": "mini-burger-beefffffff.jpg"
+      },
+      {
+        "id": "card9",
+        "name": "MINI BURGER CHICKEN",
+        "price": "11.00",
+        "description": "A kid-approved favorite! Two mini crispy chicken burgers served with our golden fries and a refreshing juice.",
+        "image": "mini-burger-chickennnnn.jpg"
+      },
+      {
+        "id": "card10",
+        "name": "KIDS MEAL CHICKEN TENDERS",
+        "price": "11.00",
+        "description": "Crispy, tender, and tasty! Our Golden, crunchy chicken tenders served with fries and a refreshing juice.",
+        "image": ""
+      },
+      {
+        "id": "card390",
+        "name": "PIZZA MARGARITA",
+        "price": "15.50",
+        "description": "Fresh tomato sauce, melted mozzarella, and fragrant basil on a perfectly baked crust, an Italian classic done right.",
+        "image": ""
+      },
+      {
+        "id": "card391",
+        "name": "PIZZA VEGETARIAN",
+        "price": "16.50",
+        "description": "Fresh tomato sauce, melted mozzarella, and a colorful medley of zucchini, eggplant, mushrooms, and artichokes. Simple, vibrant, delicious.",
+        "image": ""
+      },
+      {
+        "id": "card392",
+        "name": "PIZZA PEPPERONI",
+        "price": "17.50",
+        "description": "Fresh tomato sauce, melted mozzarella, loaded with pepperoni on a perfectly baked crust, packed with flavor in every bite.",
+        "image": "peppp.jpg"
+      },
+      {
+        "id": "card397",
+        "name": "PIZZA FOUR CHEESE",
+        "price": "17.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card400",
+        "name": "PIZZA LEBANESE",
+        "price": "17.50",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "DESSERT",
+    "kind": "Food",
+    "items": [
+      {
+        "id": "card6",
+        "name": "MUU PAN PERDU",
+        "price": "12.00",
+        "description": "Our Homemade, warm & fluffy French toast, served with a scoop of creamy vanilla ice cream.",
+        "image": "paind-perdu-or-fonduuuuu.jpg"
+      },
+      {
+        "id": "card7",
+        "name": "ORA'S ICE CREAM",
+        "price": "9.00",
+        "description": "Pure Oreo obsession, Oreo ice cream, coated in crushed Oreo biscuits and finished with a generous drizzle of rich Hershey's chocolate sauce.",
+        "image": "aura-icecreammmmmm.jpg"
+      },
+      {
+        "id": "card311",
+        "name": "FONDANT",
+        "price": "9.00",
+        "description": "Melt-in-your-mouth chocolate fondant served with vanilla ice cream.",
+        "image": "paind-perdu-or-fonduuuuu_1.jpg"
+      },
+      {
+        "id": "card312",
+        "name": "CHOCOLAT MOU",
+        "price": "9.90",
+        "description": "Delicate on the outside, irresistibly molten within. Chocolate luxury in every bite.",
+        "image": "chocolat-muuuuuuu.jpg"
+      },
+      {
+        "id": "card373",
+        "name": "KATE'N COOKIES",
+        "price": "9.90",
+        "description": "Our special warm white-chocolate cranberry cookie paired with rich vanilla ice cream and a silky chocolate drizzle.",
+        "image": "cookkkkkk.jpg"
+      },
+      {
+        "id": "card434",
+        "name": "ICE CREAM 3 SCOOP",
+        "price": "7.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "HOT BEVERAGE",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card94",
+        "name": "ESPRESSO",
+        "price": "2.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card95",
+        "name": "DBL ESPRESSO",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card96",
+        "name": "CAPPUCCINO",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card97",
+        "name": "LATTE",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card98",
+        "name": "TEA",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card99",
+        "name": "MOCCHA CHOCOLATE",
+        "price": "6.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card100",
+        "name": "AFFOGATO",
+        "price": "6.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card393",
+        "name": "LEBANESE COFFEE",
+        "price": "2.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card435",
+        "name": "ICED CAPPUCCINO",
+        "price": "6.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card436",
+        "name": "ICED COFFE",
+        "price": "5.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "JUICES",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card89",
+        "name": "FRESH ORANGE",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card90",
+        "name": "LEMONADE",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card91",
+        "name": "APPLE JUICE",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card92",
+        "name": "PINEAPPLE JUICE",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card93",
+        "name": "CRANBERRY",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "BEER",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card78",
+        "name": "ALMAZA",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card79",
+        "name": "ALMAZA LIGHT",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card80",
+        "name": "CORONA",
+        "price": "9.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card81",
+        "name": "HEINEKEN",
+        "price": "7.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card82",
+        "name": "CALSBERG DRAFT 250ML",
+        "price": "6.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card84",
+        "name": "CALSBERG DRAFT 500ML",
+        "price": "9.90",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card88",
+        "name": "ADD MEXICAN",
+        "price": "0.50",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "GIN",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card120",
+        "name": "GLS BEEFEATER",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card119",
+        "name": "GLS GORDON'S",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card123",
+        "name": "GLS MALFY",
+        "price": "11.00",
+        "description": "",
+        "image": "11111image-2025-12-01-at-23136-pm.jpg"
+      },
+      {
+        "id": "card121",
+        "name": "GLS HENDRICKS",
+        "price": "13.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card122",
+        "name": "GLS BOMBAY",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card124",
+        "name": "GLS TANQUERAY",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card125",
+        "name": "GLS TANQUERAY 10Y",
+        "price": "13.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card126",
+        "name": "GLS BEEFEATER 24",
+        "price": "15.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card127",
+        "name": "GLS MONKEY 47",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card128",
+        "name": "BTL MONKEY 47",
+        "price": "165.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card130",
+        "name": "BTL BEEFEATER",
+        "price": "55.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card129",
+        "name": "BTL GORDON'S",
+        "price": "55.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card133",
+        "name": "BTL MALFY",
+        "price": "110.00",
+        "description": "",
+        "image": "11111image-2025-12-01-at-23136-pm_1.jpg"
+      },
+      {
+        "id": "card131",
+        "name": "BTL HENDRICKS",
+        "price": "132.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card132",
+        "name": "BTL BOMBAY",
+        "price": "110.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card134",
+        "name": "BTL TANQUERAY",
+        "price": "110.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card135",
+        "name": "BTL TANQUERAY 10Y",
+        "price": "132.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card136",
+        "name": "BTL BEEFEATER 24",
+        "price": "154.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "COCKTAILS",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card230",
+        "name": "GIN BASIL",
+        "price": "7.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card231",
+        "name": "MOSCOW MULE",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card232",
+        "name": "LONDON MULE",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card233",
+        "name": "BLOODY MARY",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card234",
+        "name": "GIN SOUR",
+        "price": "7.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card235",
+        "name": "VODKA SOUR",
+        "price": "7.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card236",
+        "name": "TEQUILA SOUR",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card237",
+        "name": "TEQUILA SUNRISE",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card238",
+        "name": "WHISKEY SOUR",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card239",
+        "name": "APEROL SPRITZ",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card241",
+        "name": "OLD FASHIONED",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card242",
+        "name": "LONG ISLAND",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card243",
+        "name": "NEGRONI",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card244",
+        "name": "COSMOPOLITAN",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card245",
+        "name": "MOJITO",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card246",
+        "name": "CUBA LIBRE",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card247",
+        "name": "PALOMA",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card248",
+        "name": "PASSION FRUIT MARTINI",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card249",
+        "name": "ESPRESSO MARTINI",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card250",
+        "name": "DRY MARTINI",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card251",
+        "name": "MARGARITA",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card252",
+        "name": "STRAWBERRY MARGARITA",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card253",
+        "name": "PASSION MARGARITA",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "LIQUORS & VERMOUTH",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card263",
+        "name": "GLS JAGER",
+        "price": "7.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card264",
+        "name": "GLS APEROL",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card265",
+        "name": "GLA MARTINI BIANCO",
+        "price": "7.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card266",
+        "name": "GLS MARTINI ROSSO",
+        "price": "7.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card267",
+        "name": "GLS MARTINI ROSATO",
+        "price": "7.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card268",
+        "name": "GLS ARAK",
+        "price": "6.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card269",
+        "name": "GLS CAMPARI",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card270",
+        "name": "GLS BAILEYS",
+        "price": "7.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card271",
+        "name": "GLS PASTIS",
+        "price": "8.75",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "PITCHERS",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card254",
+        "name": "PITCHER MARGARITA",
+        "price": "35.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card255",
+        "name": "PITCHER LONG ISLAND",
+        "price": "49.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card256",
+        "name": "PITCHER MOSCOW MULE",
+        "price": "35.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card257",
+        "name": "PITCHER STRAWBERRY MARGARITA",
+        "price": "35.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card258",
+        "name": "PITCHER PASSION MARGARITA",
+        "price": "35.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "PROSECCO & CHAMPAGNE",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card111",
+        "name": "GLS PROSECCO",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card112",
+        "name": "PROSECCO PICCINI",
+        "price": "38.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card113",
+        "name": "PROSECCO PICCINI 1882",
+        "price": "27.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card114",
+        "name": "PROSECCO PENASOL",
+        "price": "25.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card115",
+        "name": "LP ROSE BTL",
+        "price": "0.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card116",
+        "name": "LP BRUT BTL",
+        "price": "0.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card117",
+        "name": "MOET BRUT BTL",
+        "price": "0.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card118",
+        "name": "MOET ROSE BTL",
+        "price": "0.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "READY TO DRINK",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card52",
+        "name": "PEPSI CAN",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card53",
+        "name": "PEPSI DIET CAN",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card54",
+        "name": "7UP CAN",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card55",
+        "name": "7UP DIET CAN",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card56",
+        "name": "MIRINDA CAN",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card57",
+        "name": "ICED TEA PEACH",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card58",
+        "name": "ICED TEA PEACH DIET",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card59",
+        "name": "ICED TEA MANGO",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card60",
+        "name": "ICED TEA MANGO DIET",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card61",
+        "name": "ICED TEA FRUITS",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card62",
+        "name": "ICED TEA FRUITS DIET",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card63",
+        "name": "PEPSI GLS",
+        "price": "1.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card64",
+        "name": "PEPSI DIET GLS",
+        "price": "1.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card65",
+        "name": "7UP GLS",
+        "price": "1.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card66",
+        "name": "7UP DIET GLS",
+        "price": "1.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card67",
+        "name": "MIRINDA GLS",
+        "price": "1.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card68",
+        "name": "SODA",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card69",
+        "name": "TONIC",
+        "price": "3.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card70",
+        "name": "ENERGY DRINK",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card71",
+        "name": "GINGER ALE",
+        "price": "4.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card72",
+        "name": "WATER SMALL",
+        "price": "1.11",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card73",
+        "name": "WATER BIG",
+        "price": "2.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card74",
+        "name": "VIA SMALL",
+        "price": "2.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card75",
+        "name": "VIA BIG",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card76",
+        "name": "VIA SPARKLING SMALL",
+        "price": "4.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card77",
+        "name": "SAN PELLEGRINO 75CL",
+        "price": "8.50",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "SIGNATURE COCKTAIL",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card259",
+        "name": "SOULA",
+        "price": "9.90",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card260",
+        "name": "FOREST",
+        "price": "9.90",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card261",
+        "name": "MUU",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card262",
+        "name": "LUU",
+        "price": "9.90",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "TEQUILA",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card161",
+        "name": "GLS OLMECA BLANCO",
+        "price": "8.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card162",
+        "name": "GLS OLMECA GOLD",
+        "price": "8.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card159",
+        "name": "GLS JOSE GOLD",
+        "price": "8.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card160",
+        "name": "GLS JOSE WHITE",
+        "price": "8.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card163",
+        "name": "GLS ALTOS BLANCO",
+        "price": "19.50",
+        "description": "",
+        "image": "333333image-2025-12-01-at-32617-pm-1.jpg"
+      },
+      {
+        "id": "card164",
+        "name": "GLS ALTOS REPOSADO",
+        "price": "21.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card165",
+        "name": "GLS ALTOS ANEJO",
+        "price": "22.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card166",
+        "name": "GLS 1800 REPOSODA",
+        "price": "14.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card167",
+        "name": "GLS 1800 ANEJO",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card168",
+        "name": "GLS 1800 BLANCO",
+        "price": "13.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card171",
+        "name": "BTL OLMECA BLANCO",
+        "price": "82.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card172",
+        "name": "BTL OLMECA GOLD",
+        "price": "82.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card169",
+        "name": "BTL JOSE GOLD",
+        "price": "82.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card170",
+        "name": "BTL JOSE WHITE",
+        "price": "82.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card173",
+        "name": "BTL ALTOS BLANCO",
+        "price": "180.00",
+        "description": "",
+        "image": "333333image-2025-12-01-at-32617-pm-1_1.jpg"
+      },
+      {
+        "id": "card174",
+        "name": "BTL ALTOS REPOSADO",
+        "price": "190.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card175",
+        "name": "BTL ALTOS ANEJO",
+        "price": "200.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card176",
+        "name": "BTL 1800 REPOSODA",
+        "price": "135.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card177",
+        "name": "BTL 1800 ANEJO",
+        "price": "150.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card178",
+        "name": "BTL 1800 BLANCO",
+        "price": "125.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "VODKA",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card137",
+        "name": "GLS ABSOLUT",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card138",
+        "name": "GLS STOLI RED",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card139",
+        "name": "GLS STOLI GOLD",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card140",
+        "name": "GLS KETEL ONE",
+        "price": "13.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card141",
+        "name": "GLS GREY GOOSE",
+        "price": "15.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card142",
+        "name": "GLS BELVEDERE",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card143",
+        "name": "GLS RUSSIAN GOLD",
+        "price": "11.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card144",
+        "name": "GLS RUSSIAN STANDARD",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card145",
+        "name": "BTL RUSSIAN STANDARD",
+        "price": "55.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card146",
+        "name": "BTL ABSOLUT",
+        "price": "55.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card147",
+        "name": "BTL STOLI RED",
+        "price": "55.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card148",
+        "name": "BTL STOLI GOLD",
+        "price": "110.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card149",
+        "name": "BTL KETEL ONE",
+        "price": "132.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card150",
+        "name": "BTL GREY GOOSE",
+        "price": "154.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card151",
+        "name": "BTL BELVEDERE",
+        "price": "165.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card152",
+        "name": "BTL RUSSIAN GOLD",
+        "price": "110.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "COGNAC",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card227",
+        "name": "GLS CAMUS VS",
+        "price": "15.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card228",
+        "name": "GLS CAMUS VSOP",
+        "price": "24.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card229",
+        "name": "GLS MARTELL VS",
+        "price": "15.50",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "WHISKEY",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card181",
+        "name": "GLS CHIVAS REGAL 12Y",
+        "price": "12.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card182",
+        "name": "GLS CHIVAS REGAL 15Y",
+        "price": "15.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card183",
+        "name": "GLS CHIVAS REGAL 18Y",
+        "price": "24.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card184",
+        "name": "GLS JAMESON",
+        "price": "9.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card185",
+        "name": "GLS JAMESON IPA",
+        "price": "14.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card186",
+        "name": "GLS JAMESON BLACK",
+        "price": "15.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card187",
+        "name": "GLS JAMESON CRESTED",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card179",
+        "name": "GLS RED LABEL",
+        "price": "8.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card180",
+        "name": "GLS BLACK LABEL",
+        "price": "13.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card188",
+        "name": "GLS J&B",
+        "price": "7.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card189",
+        "name": "GLS J&B 15Y",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card190",
+        "name": "GLS OLD PARR",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card191",
+        "name": "GLS GOLD LABEL",
+        "price": "21.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card192",
+        "name": "GLS PLATINUM",
+        "price": "21.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card193",
+        "name": "GLS GLENFIDDICH 12Y",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card194",
+        "name": "GLS GLENFIDDICH 15Y",
+        "price": "19.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card195",
+        "name": "GLS GLENFIDDICH 18Y",
+        "price": "27.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card196",
+        "name": "GLS GLENLIVET 12Y",
+        "price": "17.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card197",
+        "name": "GLS MACALLAN  12Y",
+        "price": "18.75",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card198",
+        "name": "GLS MACALLAN  15Y",
+        "price": "24.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card199",
+        "name": "GLS MACALLAN  18Y",
+        "price": "35.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card200",
+        "name": "GLS ABERLOUR 14Y",
+        "price": "24.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card201",
+        "name": "GLS JACK DANIEL'S",
+        "price": "14.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card202",
+        "name": "GLS JACK DANIEL'S HONEY",
+        "price": "14.25",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card203",
+        "name": "BTL JACK DANIEL'S",
+        "price": "143.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card204",
+        "name": "BTL JACK DANIEL'S HONEY",
+        "price": "143.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card207",
+        "name": "BTL CHIVAS 12Y",
+        "price": "121.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card208",
+        "name": "BTL CHIVAS 15Y",
+        "price": "154.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card209",
+        "name": "BTL CHIVAS 18Y",
+        "price": "242.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card210",
+        "name": "BTL JAMESON",
+        "price": "10.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card213",
+        "name": "BTL JAMESON CRESTED",
+        "price": "165.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card211",
+        "name": "BTL JAMESON IPA",
+        "price": "143.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card212",
+        "name": "BTL JAMESON BLACK",
+        "price": "154.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card205",
+        "name": "BTL RED LABEL",
+        "price": "88.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card206",
+        "name": "BTL BLACK LABEL",
+        "price": "132.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card214",
+        "name": "BTL J&B",
+        "price": "77.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card215",
+        "name": "BTL J&B 15Y",
+        "price": "165.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card216",
+        "name": "BTL OLD PARR",
+        "price": "165.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card217",
+        "name": "BTL GOLD LABEL",
+        "price": "209.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card218",
+        "name": "BTL PLATINUM",
+        "price": "209.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card219",
+        "name": "BTL GLENFIDDICH 12Y",
+        "price": "165.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card220",
+        "name": "BTL GLENFIDDICH 15Y",
+        "price": "242.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card221",
+        "name": "BTL GLENFIDDICH 18Y",
+        "price": "275.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card222",
+        "name": "BTL GLENLIVET 12Y",
+        "price": "17.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card223",
+        "name": "BTL MACALLAN 12Y",
+        "price": "187.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card224",
+        "name": "BTL MACALLAN 15Y",
+        "price": "242.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card225",
+        "name": "BTL MACALLAN 18Y",
+        "price": "352.00",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card226",
+        "name": "BTL ABERLOUR 14Y",
+        "price": "242.00",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "WINE",
+    "kind": "Beverage",
+    "items": [
+      {
+        "id": "card101",
+        "name": "GLS WINE RED",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card102",
+        "name": "GLS WINE ROSE",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card103",
+        "name": "GLS WINE WHITE",
+        "price": "5.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card104",
+        "name": "KSARA SUNSET 1/1",
+        "price": "27.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card105",
+        "name": "KSARA BDB 1/1",
+        "price": "27.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card106",
+        "name": "KSARA RESERVE DU COUVENT 1/1",
+        "price": "27.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card107",
+        "name": "KSARA SUNSET 1/2",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card108",
+        "name": "KSARA BDB 1/2",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card109",
+        "name": "KSARA RESERVE DU COUVENT 1/2",
+        "price": "16.50",
+        "description": "",
+        "image": ""
+      },
+      {
+        "id": "card110",
+        "name": "KEFRAYA CHATEAU RED",
+        "price": "62.70",
+        "description": "",
+        "image": ""
+      }
+    ]
+  }
+]

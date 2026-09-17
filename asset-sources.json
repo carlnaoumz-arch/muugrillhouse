@@ -1,0 +1,374 @@
+{
+  "checked": "2026-09-17",
+  "officialMenu": "https://menu.omegasoftware.ca/muugrillhouseandbar",
+  "photos": [
+    {
+      "local": "assets/menu/edamamiiiiiii.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/edamamiiiiiii.jpg",
+      "item": "EDAMAME"
+    },
+    {
+      "local": "assets/menu/friesssssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/friesssssss.jpg",
+      "item": "FRIES"
+    },
+    {
+      "local": "assets/menu/truffle-friestttt.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/truffle-friestttt.jpg",
+      "item": "TRUFFLE FRIES"
+    },
+    {
+      "local": "assets/menu/crispy-chicken-tendersssssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/crispy-chicken-tendersssssss.jpg",
+      "item": "CRISPY CHICKEN TENDERS"
+    },
+    {
+      "local": "assets/menu/summer-rollrrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/summer-rollrrrrr.jpg",
+      "item": "SUMMER ROLLS"
+    },
+    {
+      "local": "assets/menu/mozarella-stickssssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/mozarella-stickssssss.jpg",
+      "item": "MOZZARELLA STICKS"
+    },
+    {
+      "local": "assets/menu/010101.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/010101.jpg",
+      "item": "CHEESY NACHOS"
+    },
+    {
+      "local": "assets/menu/crispy-calamariiiiii.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/crispy-calamariiiiii.jpg",
+      "item": "ASIAN CRISPY CALAMARI"
+    },
+    {
+      "local": "assets/menu/dynamite-shrimpppppp.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/dynamite-shrimpppppp.jpg",
+      "item": "SHRIMP DYNAMITE"
+    },
+    {
+      "local": "assets/menu/beef-tartareeeeee.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/beef-tartareeeeee.jpg",
+      "item": "BEEF TARTARE"
+    },
+    {
+      "local": "assets/menu/garden-saladdddd.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/garden-saladdddd.jpg",
+      "item": "GARDEN FRESH SALAD"
+    },
+    {
+      "local": "assets/menu/chicken-saladddddd_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chicken-saladddddd_1.jpg",
+      "item": "CHICKEN SALAD"
+    },
+    {
+      "local": "assets/menu/shrimps-saladddddd.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/shrimps-saladddddd.jpg",
+      "item": "SHRIMP SALAD"
+    },
+    {
+      "local": "assets/menu/calamar-saladddddd.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/calamar-saladddddd.jpg",
+      "item": "CALAMARI SALAD"
+    },
+    {
+      "local": "assets/menu/quinoa-salmon-saladdddddd.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/quinoa-salmon-saladdddddd.jpg",
+      "item": "QUINOA SALMON SALAD"
+    },
+    {
+      "local": "assets/menu/salmon-carpacciooooooo.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salmon-carpacciooooooo.jpg",
+      "item": "SALMON CARPACCIO"
+    },
+    {
+      "local": "assets/menu/muu-beef-saladddddd.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/muu-beef-saladddddd.jpg",
+      "item": "MUU BEEF SALAD"
+    },
+    {
+      "local": "assets/menu/whatsapp-image-2026-01-24-at-32154-pm.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/whatsapp-image-2026-01-24-at-32154-pm.jpg",
+      "item": "MUU ASSORTED COMBO"
+    },
+    {
+      "local": "assets/menu/muu-assorted-platterrrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/muu-assorted-platterrrrrr.jpg",
+      "item": "MUU ASSORTED PLATTER (Served for 4 Pers.)"
+    },
+    {
+      "local": "assets/menu/muu-smoked-assorted-platterrrrrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/muu-smoked-assorted-platterrrrrrrr.jpg",
+      "item": "MUU SMOKED ASSORTED PLATTER (Served for 4 Pers.)"
+    },
+    {
+      "local": "assets/menu/combo.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/combo.jpg",
+      "item": "MUU BURGER COMBO"
+    },
+    {
+      "local": "assets/menu/angus-burgerrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/angus-burgerrrrr.jpg",
+      "item": "ANGUS BEEF BURGER"
+    },
+    {
+      "local": "assets/menu/chicken-burgerrrrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chicken-burgerrrrrrr.jpg",
+      "item": "CHICKEN BURGER"
+    },
+    {
+      "local": "assets/menu/pulle-beef-burgersssssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/pulle-beef-burgersssssss.jpg",
+      "item": "PULLED BEEF BURGER"
+    },
+    {
+      "local": "assets/menu/pulle-beef-burgersssssss_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/pulle-beef-burgersssssss_1.jpg",
+      "item": "PULLED PORK BURGER"
+    },
+    {
+      "local": "assets/menu/salad.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salad.jpg",
+      "item": "CHICKEN PROTEIN SALAD"
+    },
+    {
+      "local": "assets/menu/salad_2.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salad_2.jpg",
+      "item": "BEEF PROTEIN SALAD"
+    },
+    {
+      "local": "assets/menu/salad_3.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salad_3.jpg",
+      "item": "CALAMARI PROTEIN SALAD"
+    },
+    {
+      "local": "assets/menu/salad_4.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salad_4.jpg",
+      "item": "SHRIMP PROTEIN SALAD"
+    },
+    {
+      "local": "assets/menu/salad_5.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salad_5.jpg",
+      "item": "SALMON PROTEIN SALAD"
+    },
+    {
+      "local": "assets/menu/platter.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/platter.jpg",
+      "item": "HIGH CHICKEN PROTEIN PLATTER"
+    },
+    {
+      "local": "assets/menu/salmon.png.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/salmon.png",
+      "item": "HIGH SALMON PROTEIN PLATTER"
+    },
+    {
+      "local": "assets/menu/chicken.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chicken.jpg",
+      "item": "CHICKEN BAGUETTE WITH ENTRECOTE SAUCE"
+    },
+    {
+      "local": "assets/menu/all.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/all.jpg",
+      "item": "BEEF BAGUETTE WITH ENTRECOTE SAUCE"
+    },
+    {
+      "local": "assets/menu/all_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/all_1.jpg",
+      "item": "SALMON BAGUETTE WITH ENTRECOTE SAUCE"
+    },
+    {
+      "local": "assets/menu/all_2.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/all_2.jpg",
+      "item": "SHRIMP BAGUETTE WITH ENTRECOTE SAUCE"
+    },
+    {
+      "local": "assets/menu/all_3.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/all_3.jpg",
+      "item": "CALAMRI BAGUETTE WITH ENTRECOTE SAUCE"
+    },
+    {
+      "local": "assets/menu/beef-pannnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/beef-pannnnnn.jpg",
+      "item": "BEEF PAN"
+    },
+    {
+      "local": "assets/menu/slamon-pansssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/slamon-pansssss.jpg",
+      "item": "SALMON PAN"
+    },
+    {
+      "local": "assets/menu/chicken-pannnnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chicken-pannnnnnn.jpg",
+      "item": "CHICKEN PAN"
+    },
+    {
+      "local": "assets/menu/shrimp-pannnnnnnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/shrimp-pannnnnnnnnn.jpg",
+      "item": "SHRIMP PAN"
+    },
+    {
+      "local": "assets/menu/calamari-pannnnnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/calamari-pannnnnnnn.jpg",
+      "item": "CALAMARI PAN"
+    },
+    {
+      "local": "assets/menu/sllllllll.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/sllllllll.jpg",
+      "item": "SMOKED GRILLED SALMON"
+    },
+    {
+      "local": "assets/menu/smoked-ribsssssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/smoked-ribsssssss.jpg",
+      "item": "SMOKED RIBS"
+    },
+    {
+      "local": "assets/menu/pulled-pork-platterrrrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/pulled-pork-platterrrrrrr.jpg",
+      "item": "SMOKED PULLED PORK"
+    },
+    {
+      "local": "assets/menu/pulled-beef-platterrrrrrr.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/pulled-beef-platterrrrrrr.jpg",
+      "item": "ANGUS PULLED BEEF"
+    },
+    {
+      "local": "assets/menu/smoked-saussagesssss.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/smoked-saussagesssss.jpg",
+      "item": "SAUSAGE"
+    },
+    {
+      "local": "assets/menu/smoked-chickennnnnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/smoked-chickennnnnnnn.jpg",
+      "item": "CHICKEN BREAST SMOKED PLATTER"
+    },
+    {
+      "local": "assets/menu/beef-australina-filletttttt.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/beef-australina-filletttttt.jpg",
+      "item": "BEEF AUSTRALIAN"
+    },
+    {
+      "local": "assets/menu/australina-entrecoteeeeeee.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/australina-entrecoteeeeeee.jpg",
+      "item": "ENTREC\u00d4TE AUSTRALIAN 300g"
+    },
+    {
+      "local": "assets/menu/chicken-escalopeeeeee.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chicken-escalopeeeeee.jpg",
+      "item": "CHICKEN ESCALOPE"
+    },
+    {
+      "local": "assets/menu/coeur-de-filletttttt.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/coeur-de-filletttttt.jpg",
+      "item": "COEUR DE FILET"
+    },
+    {
+      "local": "assets/menu/grilled-salmonnnnnnnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/grilled-salmonnnnnnnnnn.jpg",
+      "item": "GRILLED SALMON PLATTER"
+    },
+    {
+      "local": "assets/menu/chickennnnnnnnnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chickennnnnnnnnnn.jpg",
+      "item": "GRILLED CHICKEN PLATTER"
+    },
+    {
+      "local": "assets/menu/image-2026-05-20-at-40810-pm_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/image-2026-05-20-at-40810-pm_1.jpg",
+      "item": "MONGOLIAN CHICKEN"
+    },
+    {
+      "local": "assets/menu/image-2026-05-20-at-40810-pm.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/image-2026-05-20-at-40810-pm.jpg",
+      "item": "MONGOLIAN BEEF"
+    },
+    {
+      "local": "assets/menu/1111111.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/1111111.jpg",
+      "item": "MUU SPECIAL CHEESY CHICKEN ESCALOPE"
+    },
+    {
+      "local": "assets/menu/1111111_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/1111111_1.jpg",
+      "item": "MUU SPECIAL CHEESY BEEF ESCALOPE"
+    },
+    {
+      "local": "assets/menu/australina-entrecoteeeeeee.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/australina-entrecoteeeeeee.jpg",
+      "item": "T-BONE"
+    },
+    {
+      "local": "assets/menu/mini-burger-beefffffff.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/mini-burger-beefffffff.jpg",
+      "item": "MINI BURGER BEEF"
+    },
+    {
+      "local": "assets/menu/mini-burger-chickennnnn.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/mini-burger-chickennnnn.jpg",
+      "item": "MINI BURGER CHICKEN"
+    },
+    {
+      "local": "assets/menu/peppp.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/peppp.jpg",
+      "item": "PIZZA PEPPERONI"
+    },
+    {
+      "local": "assets/menu/paind-perdu-or-fonduuuuu.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/paind-perdu-or-fonduuuuu.jpg",
+      "item": "MUU PAN PERDU"
+    },
+    {
+      "local": "assets/menu/aura-icecreammmmmm.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/aura-icecreammmmmm.jpg",
+      "item": "ORA'S ICE CREAM"
+    },
+    {
+      "local": "assets/menu/paind-perdu-or-fonduuuuu_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/paind-perdu-or-fonduuuuu_1.jpg",
+      "item": "FONDANT"
+    },
+    {
+      "local": "assets/menu/chocolat-muuuuuuu.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/chocolat-muuuuuuu.jpg",
+      "item": "CHOCOLAT MOU"
+    },
+    {
+      "local": "assets/menu/cookkkkkk.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/cookkkkkk.jpg",
+      "item": "KATE'N COOKIES"
+    },
+    {
+      "local": "assets/menu/11111image-2025-12-01-at-23136-pm.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/11111image-2025-12-01-at-23136-pm.jpg",
+      "item": "GLS MALFY"
+    },
+    {
+      "local": "assets/menu/11111image-2025-12-01-at-23136-pm_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/11111image-2025-12-01-at-23136-pm_1.jpg",
+      "item": "BTL MALFY"
+    },
+    {
+      "local": "assets/menu/333333image-2025-12-01-at-32617-pm-1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/333333image-2025-12-01-at-32617-pm-1.jpg",
+      "item": "GLS ALTOS BLANCO"
+    },
+    {
+      "local": "assets/menu/333333image-2025-12-01-at-32617-pm-1_1.jpg.webp",
+      "source": "https://s3.eu-central-1.amazonaws.com/act.omegapos.com/OmegaCloud/178126/SalesItems/333333image-2025-12-01-at-32617-pm-1_1.jpg",
+      "item": "BTL ALTOS BLANCO"
+    }
+  ],
+  "hero": {
+    "stillGeneration": "a410f1c4-969e-47df-9786-32eb54b1ecba",
+    "filmGeneration": "b876f808-3e45-470e-b9aa-210f62649221",
+    "description": "AI-assisted campaign visualization based on the official Australian Entrecote dish photograph. Not an image of the venue."
+  },
+  "hdRevision": {
+    "heroStill": "0f97107c-6d72-4586-8c22-d1e3d2f95249",
+    "heroVideo": "883fc3d9-1798-4719-b097-da9ae0b674b2",
+    "steak": "d32306e4-b75f-4e22-828a-95c187244633",
+    "burger": "90abd7a0-7423-4fdf-b206-cbbb27909f2e",
+    "dessert": "52ab597f-53ef-486d-b844-75984465c5a9",
+    "platter": "a085655b-82ae-4add-a6a6-c5f54b3abc28"
+  }
+}
