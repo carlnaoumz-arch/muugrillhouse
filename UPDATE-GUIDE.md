@@ -34,8 +34,8 @@ Design inspiration: supplied Pinterest https://pin.it/3Xphontj2 ; Awwwards Amici
 6. On approved official launch: verify final URL/canonical/social image in app-meta.json, decide whether to remove preview notice and noindex in __root.tsx and robots[.]txt.ts, then verify all public routes.
 ## Behaviors
 Reservation form validates date, time and party size and prepares an editable WhatsApp handoff. It does not book or send messages.
-Hero is muted and inline, has a pause control, pauses out of view or when document hidden, and keeps posters for reduced motion/save-data/slow-network or video failures. Natural page scrolling.
+Hero is muted and inline, has no visible playback controls, pauses out of view or when document hidden, and keeps posters for reduced motion/video failures. Natural page scrolling.
 All menu items open native dialog details; search covers food and drinks including accents. Zero prices never display as free.
 
 ## HD imagery revision
-Hero rebuilt with Higgsfield as a 10-second 1920×1080 turntable loop. Four featured stills are 2400×1792, saved as high-quality WebP in app/public/assets/hq and reused in matching menu details. Remaining menu photographs retain source quality. Playback resumes when returning to the foreground or viewport unless manually paused or reduced-motion/data-saving is active.
+Hero rebuilt with Higgsfield as a 10-second 1920×1080 turntable loop. Four featured stills are 2400×1792, saved as high-quality WebP in app/public/assets/hq and reused in matching menu details. Remaining menu photographs retain source quality. Playback resumes when returning to the foreground or viewport unless reduced motion is active or the browser blocks autoplay.

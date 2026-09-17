@@ -39,3 +39,7 @@ Reduced-motion, save-data, slow-network and failed-video fallbacks were reviewed
 ## Vercel deployment repair
 
 The initial Vercel import ran `vite build` from the repository root, where dependencies were absent. Added root install/build configuration and a conditional Nitro Vercel preset, preserving the local build. Verified the resulting server function directly for all seven routes, a 404, linked static assets and both hero videos. GitHub Actions now validates the Vercel artifact as well as the standard build.
+
+## Automatic hero playback revision
+
+Removed the hero playback button without changing video files, encoding, resolution or animation. Set actual muted/defaultMuted/playsInline properties before loading, request eager loading, and retry playback on media readiness, page return and ordinary user interaction. Removed the optional site-level data-saving gate; reduced-motion preference remains respected. Mobile-width Chromium playback started without a tap at 1080×900; desktop source remains 1920×1080. Browser-level autoplay restrictions cannot be overridden by site code.
