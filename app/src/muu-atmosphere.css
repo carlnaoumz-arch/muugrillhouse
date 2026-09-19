@@ -1,57 +1,77 @@
-/* Atmospheric light only in the introduction and visit sections.
-   Transparent edges preserve the warm ivory canvas and clean food sections. */
-:is(.intro, .visit-panel, .visit-hero) {
-  position: relative;
+/* One viewport-sized atmosphere behind the entire site. Sections scroll over
+   the same light; no section owns or restarts an animation. */
+.muu-site {
   isolation: isolate;
 }
 
-:is(.intro, .visit-panel, .visit-hero)::before,
-:is(.intro, .visit-panel, .visit-hero)::after {
-  content: "";
-  position: absolute;
+.muu-atmosphere {
+  position: fixed;
   inset: 0;
   z-index: -1;
+  overflow: hidden;
   pointer-events: none;
-  mask-image: radial-gradient(ellipse closest-side, #000 30%, transparent 100%);
+  background: var(--ivory);
+}
+
+.muu-atmosphere::before,
+.muu-atmosphere::after {
+  content: "";
+  position: absolute;
+  inset: -15%;
   background-repeat: no-repeat;
+  /* Broad feathered gradients give a blurred-light effect without an
+     expensive full-screen blur or a JavaScript animation loop. */
+  will-change: transform, opacity;
 }
 
-:is(.intro, .visit-panel, .visit-hero)::before {
+.muu-atmosphere::before {
   background:
-    radial-gradient(ellipse at 25% 52%, rgb(73 119 83 / 17%) 0%, rgb(111 147 108 / 8%) 32%, transparent 67%),
-    radial-gradient(ellipse at 74% 48%, rgb(219 185 119 / 14%) 0%, rgb(235 215 174 / 5%) 34%, transparent 66%);
-  animation: muu-light-drift 46s ease-in-out infinite alternate;
+    radial-gradient(ellipse 54% 65% at 12% 30%, rgb(61 113 72 / 24%) 0%, rgb(93 139 92 / 13%) 34%, rgb(128 155 107 / 4%) 61%, transparent 83%),
+    radial-gradient(ellipse 47% 56% at 86% 77%, rgb(69 120 83 / 20%) 0%, rgb(103 141 97 / 10%) 39%, transparent 79%);
+  animation: muu-canvas-drift 72s ease-in-out -18s infinite alternate;
 }
 
-:is(.intro, .visit-panel, .visit-hero)::after {
-  background: radial-gradient(ellipse at 62% 58%, rgb(83 126 91 / 9%) 0%, transparent 60%);
-  animation: muu-light-breathe 61s ease-in-out infinite alternate;
-}
-
-.visit-panel::before {
-  animation-delay: -19s;
+.muu-atmosphere::after {
   background:
-    radial-gradient(ellipse at 73% 48%, rgb(73 119 83 / 16%) 0%, rgb(111 147 108 / 7%) 32%, transparent 67%),
-    radial-gradient(ellipse at 24% 55%, rgb(219 185 119 / 13%) 0%, transparent 65%);
+    radial-gradient(ellipse 49% 61% at 80% 24%, rgb(219 177 98 / 17%) 0%, rgb(230 201 143 / 8%) 37%, transparent 78%),
+    radial-gradient(ellipse 56% 41% at 33% 85%, rgb(110 150 96 / 12%) 0%, transparent 77%);
+  animation: muu-canvas-breathe 91s ease-in-out -34s infinite alternate;
 }
-.visit-panel::after { animation-delay: -31s; }
-.visit-hero::before { animation-delay: -11s; }
-.visit-hero::after { animation-delay: -23s; }
 
-@keyframes muu-light-drift {
-  from { transform: translate(-1%, 1%) scale(.97, 1); opacity: .8; }
-  to { transform: translate(1%, -1%) scale(1.02, .96); opacity: 1; }
+/* Let the shared canvas show through every light section. Dark brand panels,
+   photographs, dialog surfaces and form controls keep their existing fills. */
+.muu-site > main,
+.intro,
+.featured,
+.order-strip,
+.visit-panel,
+.instagram-strip,
+.menu-intro,
+.menu-tools,
+.menu-layout,
+.visit-hero,
+.contact-grid,
+.reservation,
+.faq {
+  background: transparent;
 }
-@keyframes muu-light-breathe {
-  from { transform: translate(1%, -1%) scale(1, .96); opacity: .6; }
-  to { transform: translate(-1%, 1%) scale(.96, 1.02); opacity: .9; }
+
+@keyframes muu-canvas-drift {
+  from { transform: translate3d(-2%, -1%, 0) scale(1.02, .97); opacity: .84; }
+  to { transform: translate3d(3%, 3%, 0) scale(.96, 1.06); opacity: 1; }
+}
+
+@keyframes muu-canvas-breathe {
+  from { transform: translate3d(2%, -2%, 0) scale(.97, 1.04); opacity: .75; }
+  to { transform: translate3d(-3%, 2%, 0) scale(1.06, .96); opacity: 1; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  :is(.intro, .visit-panel, .visit-hero)::before,
-  :is(.intro, .visit-panel, .visit-hero)::after {
+  .muu-atmosphere::before,
+  .muu-atmosphere::after {
     animation: none;
     transform: none;
-    opacity: .85;
+    opacity: .9;
+    will-change: auto;
   }
 }

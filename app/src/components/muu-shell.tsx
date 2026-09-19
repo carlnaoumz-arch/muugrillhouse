@@ -6,6 +6,7 @@ export function Shell({children, current='Home'}:{children:ReactNode,current?:st
  const toggle=useRef<HTMLButtonElement>(null);
  useEffect(()=>{if(!expanded)return;const dismiss=(event:KeyboardEvent)=>{if(event.key==='Escape'){setExpanded(false);toggle.current?.focus()}};document.addEventListener('keydown',dismiss);return()=>document.removeEventListener('keydown',dismiss)},[expanded]);
  return <div className="muu-site">
+  <div className="muu-atmosphere" aria-hidden="true" />
   <a href="#main" className="skip-link">Skip to content</a>
   <div className="preview-notice">OWNER PREVIEW <span>•</span> A new look for Muu Grill House</div>
   <header className="site-header">
