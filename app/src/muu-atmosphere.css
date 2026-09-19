@@ -1,0 +1,57 @@
+/* Atmospheric light only in the introduction and visit sections.
+   Transparent edges preserve the warm ivory canvas and clean food sections. */
+:is(.intro, .visit-panel, .visit-hero) {
+  position: relative;
+  isolation: isolate;
+}
+
+:is(.intro, .visit-panel, .visit-hero)::before,
+:is(.intro, .visit-panel, .visit-hero)::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  mask-image: radial-gradient(ellipse closest-side, #000 30%, transparent 100%);
+  background-repeat: no-repeat;
+}
+
+:is(.intro, .visit-panel, .visit-hero)::before {
+  background:
+    radial-gradient(ellipse at 25% 52%, rgb(73 119 83 / 17%) 0%, rgb(111 147 108 / 8%) 32%, transparent 67%),
+    radial-gradient(ellipse at 74% 48%, rgb(219 185 119 / 14%) 0%, rgb(235 215 174 / 5%) 34%, transparent 66%);
+  animation: muu-light-drift 46s ease-in-out infinite alternate;
+}
+
+:is(.intro, .visit-panel, .visit-hero)::after {
+  background: radial-gradient(ellipse at 62% 58%, rgb(83 126 91 / 9%) 0%, transparent 60%);
+  animation: muu-light-breathe 61s ease-in-out infinite alternate;
+}
+
+.visit-panel::before {
+  animation-delay: -19s;
+  background:
+    radial-gradient(ellipse at 73% 48%, rgb(73 119 83 / 16%) 0%, rgb(111 147 108 / 7%) 32%, transparent 67%),
+    radial-gradient(ellipse at 24% 55%, rgb(219 185 119 / 13%) 0%, transparent 65%);
+}
+.visit-panel::after { animation-delay: -31s; }
+.visit-hero::before { animation-delay: -11s; }
+.visit-hero::after { animation-delay: -23s; }
+
+@keyframes muu-light-drift {
+  from { transform: translate(-1%, 1%) scale(.97, 1); opacity: .8; }
+  to { transform: translate(1%, -1%) scale(1.02, .96); opacity: 1; }
+}
+@keyframes muu-light-breathe {
+  from { transform: translate(1%, -1%) scale(1, .96); opacity: .6; }
+  to { transform: translate(-1%, 1%) scale(.96, 1.02); opacity: .9; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :is(.intro, .visit-panel, .visit-hero)::before,
+  :is(.intro, .visit-panel, .visit-hero)::after {
+    animation: none;
+    transform: none;
+    opacity: .85;
+  }
+}
