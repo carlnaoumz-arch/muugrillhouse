@@ -35,7 +35,7 @@
         "id": "card39",
         "name": "CRISPY CHICKEN TENDERS",
         "price": "11.00",
-        "description": "Our Signature crispy golden chicken tenders served with our famous honey mustard sauce.",
+        "description": "Our signature crispy golden chicken tenders, served with our famous honey mustard sauce.",
         "image": "crispy-chicken-tendersssssss.jpg"
       },
       {
@@ -56,7 +56,7 @@
         "id": "card47",
         "name": "CHEESY NACHOS",
         "price": "14.00",
-        "description": "Crisp Corn tortilla chips loaded with melted cheese and served with our special guacamole and cool sour cream on the side.",
+        "description": "Crisp corn tortilla chips loaded with melted cheese, served with our special guacamole and cool sour cream on the side.",
         "image": "010101.jpg"
       },
       {
@@ -70,7 +70,7 @@
         "id": "card49",
         "name": "SHRIMP DYNAMITE",
         "price": "15.50",
-        "description": "Perfectly breaded shrimps, fried to perfection and coated in our creamy, sweet and hot Dynamite sauce.",
+        "description": "Breaded shrimp, fried to perfection and coated in our creamy, sweet and hot Dynamite sauce.",
         "image": "dynamite-shrimpppppp.jpg"
       },
       {
@@ -104,14 +104,14 @@
         "id": "card25",
         "name": "SHRIMP SALAD",
         "price": "18.00",
-        "description": ", finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "description": "Shrimp salad finished with crunchy rice paper, walnuts and spring roll bites. Served with your choice of lemon mustard, vinegar or Asian sauce. Please ask the team for the full ingredient list.",
         "image": "shrimps-saladddddd.jpg"
       },
       {
         "id": "card29",
         "name": "CALAMARI SALAD",
         "price": "17.00",
-        "description": "Juicy Calamari on a vibrant bed of crisp romaine and mixed greens with red cabbage, carrot, cucumber, edamame, and avocado, finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
+        "description": "Juicy calamari on a vibrant bed of crisp romaine and mixed greens with red cabbage, carrot, cucumber, edamame, and avocado, finished with crunchy rice paper, walnuts, and spring roll bites. Served with your choice of Lemon Mustard, Vinegar, or Asian sauce.",
         "image": "calamar-saladddddd.jpg"
       },
       {
@@ -179,14 +179,14 @@
         "id": "card2",
         "name": "ANGUS BEEF BURGER",
         "price": "16.50",
-        "description": "Juicy angus beef patty with pickles, onion, and tomato, topped with our signature sauce, served on a buttery bun with golden fries and ketchup on the side.",
+        "description": "Juicy Angus beef patty with pickles, onion, and tomato, topped with our signature sauce, served on a buttery bun with golden fries and ketchup on the side.",
         "image": "angus-burgerrrrr.jpg"
       },
       {
         "id": "card3",
         "name": "CHICKEN BURGER",
         "price": "16.50",
-        "description": "Tender and Juicy Chicken patty with pickles, lettuce, and tomato, topped with our signature sauce and bbq, served on a buttery bun with golden fries and ketchup on the side.",
+        "description": "Tender and juicy chicken patty with pickles, lettuce and tomato, topped with our signature sauce and BBQ sauce. Served on a buttery bun with golden fries and ketchup on the side.",
         "image": "chicken-burgerrrrrrr.jpg"
       },
       {
@@ -329,7 +329,7 @@
       },
       {
         "id": "card423",
-        "name": "CALAMRI BAGUETTE WITH ENTRECOTE SAUCE",
+        "name": "CALAMARI BAGUETTE WITH ENTRECÔTE SAUCE",
         "price": "15.50",
         "description": "Golden calamari served in a toasted baguette with our signature Entrecôte sauce, crispy fries, and Parmesan cheese, served with your choice of side salad or extra fries.",
         "image": "all_3.jpg"
@@ -344,35 +344,35 @@
         "id": "card19",
         "name": "BEEF PAN",
         "price": "16.50",
-        "description": "Beef filet smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "description": "Beef fillet smothered in our secret Muu sauce. Served with a side salad, white baguette, and your choice of French fries or baked potato.",
         "image": "beef-pannnnnn.jpg"
       },
       {
         "id": "card20",
         "name": "SALMON PAN",
         "price": "19.50",
-        "description": "Fresh Salmon smothered in our secret Muu sauce. Served with a side salad, white baguette.Served with your choice of French fries or baked potato.",
+        "description": "Fresh salmon smothered in our secret Muu sauce. Served with a side salad, white baguette, and your choice of French fries or baked potato.",
         "image": "slamon-pansssss.jpg"
       },
       {
         "id": "card21",
         "name": "CHICKEN PAN",
         "price": "16.50",
-        "description": "Tender grilled chicken smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "description": "Tender grilled chicken smothered in our secret Muu sauce. Served with a side salad, white baguette, and your choice of French fries or baked potato.",
         "image": "chicken-pannnnnnn.jpg"
       },
       {
         "id": "card22",
         "name": "SHRIMP PAN",
         "price": "16.50",
-        "description": "Shrimp smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "description": "Shrimp smothered in our secret Muu sauce. Served with a side salad, white baguette, and your choice of French fries or baked potato.",
         "image": "shrimp-pannnnnnnnnn.jpg"
       },
       {
         "id": "card23",
         "name": "CALAMARI PAN",
         "price": "16.50",
-        "description": "Calamari smothered in our secret Muu sauce. Served with a side salad, white baguette. Served with your choice of French fries or baked potato.",
+        "description": "Calamari smothered in our secret Muu sauce. Served with a side salad, white baguette, and your choice of French fries or baked potato.",
         "image": "calamari-pannnnnnnn.jpg"
       },
       {
@@ -475,7 +475,7 @@
         "id": "card11",
         "name": "BEEF AUSTRALIAN",
         "price": "55.00",
-        "description": "Juicy Australian Beef served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: mushroom, pepper, or entrecôte.",
+        "description": "Juicy Australian beef served with sautéed seasonal vegetables, your choice of fries, baked potato, or mashed potato, and a choice of our signature sauces: mushroom, pepper, or entrecôte.",
         "image": "beef-australina-filletttttt.jpg"
       },
       {
@@ -552,14 +552,14 @@
         "id": "card437",
         "name": "TOMAHAWK 800 GR",
         "price": "100.00",
-        "description": "Served with fries, sauce pepper, sauce mushroom, sauce entrecote, and sauce mustard dijon",
+        "description": "Served with fries, pepper sauce, mushroom sauce, entrecôte sauce and Dijon mustard sauce.",
         "image": ""
       },
       {
         "id": "card438",
         "name": "TOMAHAWK 1200 GR",
         "price": "130.00",
-        "description": "Served with fries, sauce pepper, sauce mushroom, sauce entrecote, and sauce mustard dijon",
+        "description": "Served with fries, pepper sauce, mushroom sauce, entrecôte sauce and Dijon mustard sauce.",
         "image": ""
       }
     ]
@@ -586,12 +586,12 @@
         "id": "card10",
         "name": "KIDS MEAL CHICKEN TENDERS",
         "price": "11.00",
-        "description": "Crispy, tender, and tasty! Our Golden, crunchy chicken tenders served with fries and a refreshing juice.",
+        "description": "Crispy, tender and tasty! Our golden, crunchy chicken tenders served with fries and a refreshing juice.",
         "image": ""
       },
       {
         "id": "card390",
-        "name": "PIZZA MARGARITA",
+        "name": "PIZZA MARGHERITA",
         "price": "15.50",
         "description": "Fresh tomato sauce, melted mozzarella, and fragrant basil on a perfectly baked crust, an Italian classic done right.",
         "image": ""
@@ -634,7 +634,7 @@
         "id": "card6",
         "name": "MUU PAN PERDU",
         "price": "12.00",
-        "description": "Our Homemade, warm & fluffy French toast, served with a scoop of creamy vanilla ice cream.",
+        "description": "Our homemade, warm and fluffy French toast, served with a scoop of creamy vanilla ice cream.",
         "image": "paind-perdu-or-fonduuuuu.jpg"
       },
       {
@@ -667,7 +667,7 @@
       },
       {
         "id": "card434",
-        "name": "ICE CREAM 3 SCOOP",
+        "name": "ICE CREAM 3 SCOOPS",
         "price": "7.00",
         "description": "",
         "image": ""
@@ -715,7 +715,7 @@
       },
       {
         "id": "card99",
-        "name": "MOCCHA CHOCOLATE",
+        "name": "MOCHA CHOCOLATE",
         "price": "6.50",
         "description": "",
         "image": ""
@@ -743,7 +743,7 @@
       },
       {
         "id": "card436",
-        "name": "ICED COFFE",
+        "name": "ICED COFFEE",
         "price": "5.00",
         "description": "",
         "image": ""
@@ -825,14 +825,14 @@
       },
       {
         "id": "card82",
-        "name": "CALSBERG DRAFT 250ML",
+        "name": "CARLSBERG DRAFT 250ML",
         "price": "6.50",
         "description": "",
         "image": ""
       },
       {
         "id": "card84",
-        "name": "CALSBERG DRAFT 500ML",
+        "name": "CARLSBERG DRAFT 500ML",
         "price": "9.90",
         "description": "",
         "image": ""
@@ -1165,7 +1165,7 @@
       },
       {
         "id": "card265",
-        "name": "GLA MARTINI BIANCO",
+        "name": "GLS MARTINI BIANCO",
         "price": "7.50",
         "description": "",
         "image": ""
@@ -1594,7 +1594,7 @@
       },
       {
         "id": "card166",
-        "name": "GLS 1800 REPOSODA",
+        "name": "GLS 1800 REPOSADO",
         "price": "14.50",
         "description": "",
         "image": ""
@@ -1664,7 +1664,7 @@
       },
       {
         "id": "card176",
-        "name": "BTL 1800 REPOSODA",
+        "name": "BTL 1800 REPOSADO",
         "price": "135.00",
         "description": "",
         "image": ""
@@ -1962,21 +1962,21 @@
       },
       {
         "id": "card197",
-        "name": "GLS MACALLAN  12Y",
+        "name": "GLS MACALLAN 12Y",
         "price": "18.75",
         "description": "",
         "image": ""
       },
       {
         "id": "card198",
-        "name": "GLS MACALLAN  15Y",
+        "name": "GLS MACALLAN 15Y",
         "price": "24.00",
         "description": "",
         "image": ""
       },
       {
         "id": "card199",
-        "name": "GLS MACALLAN  18Y",
+        "name": "GLS MACALLAN 18Y",
         "price": "35.00",
         "description": "",
         "image": ""

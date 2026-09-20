@@ -24,12 +24,9 @@
 .whatsapp-contact:hover { background: #125638; }
 .whatsapp-contact:focus-visible { outline-offset: 4px; }
 
-@media (max-width: 700px) {
-  .whatsapp-contact {
-    right: max(12px, env(safe-area-inset-right));
-    bottom: calc(78px + env(safe-area-inset-bottom));
-    min-height: 44px;
-    padding-inline: 10px;
-    font-size: 10px;
-  }
+/* A 1480px viewport leaves a 150px gutter outside the 1180px content.
+   Only float where the complete button fits outside that content. On smaller
+   screens the existing header/footer links and mobile action bar remain. */
+@media (max-width: 1479px) {
+  .whatsapp-contact { display: none; }
 }
